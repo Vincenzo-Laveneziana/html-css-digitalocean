@@ -1,0 +1,72 @@
+/* General */
+
+body{
+  font-family: 'Roboto', sans-serif;
+  background: grey;
+  height: 5000px;
+  padding-top: 80px;
+}
+
+
+
+/* utility */
+
+.btn_blue{
+  color: #0069ff;
+  border-color: #0069ff;
+  margin: 0 5px;
+}
+
+
+
+
+
+
+
+/* header */
+/* header nav menu */
+
+
+#header_nav .nav_menu{
+  background: white;
+  line-height: 80px;
+}
+
+#header_nav .row{
+  padding: 0 15px;
+}
+
+#header_nav img{
+  vertical-align: middle;
+  width: 150px;
+  margin-bottom: 7px;
+}
+
+
+#header_nav .nav a{
+  padding: 0 10px;
+  line-height: 80px;
+  font-size: 16px;
+  font-weight: 500;
+  color: black;
+}
+
+#header_nav .navbar-right{
+  margin: 0;
+}
+
+.hamburger{
+  font-size: 45px;
+  vertical-align: middle;
+}
+
+
+
+
+
+
+
+
+
+
+/*  */
