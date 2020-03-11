@@ -147,7 +147,46 @@ body{
   text-decoration: underline;
 }
 
+/* main */
 
+/* main section 1 */
+
+#main_section_1{
+  background: #F3F5F9;
+  padding: 25px 0;
+}
+
+#main_section_1 .row{
+  text-align: center;
+  padding: 0 15px;
+}
+
+#main_section_1 .row h6{
+  text-transform: uppercase;
+  margin: 0;
+  color: #b5b5b5;
+}
+
+#main_section_1 .m_section1_img .col-xs-6,
+#main_section_1 .m_section1_img .col-sm-2,
+#main_section_1 .m_section1_img .col-lg-2 {
+  line-height: 165px;
+  padding: 0;
+}
+
+#main_section_1 .m_section1_img img{
+  max-width: 100%;
+}
+
+#main_section_1 .row a{
+  margin: 0;
+  color: #2c7ff5;
+  font-weight: bold;
+}
+
+#main_section_1 .row i{
+  padding: 0 10px;
+}
 
 
 
