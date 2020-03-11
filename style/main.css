@@ -171,7 +171,7 @@ body{
 #main_section_1 .m_section1_img .col-sm-2,
 #main_section_1 .m_section1_img .col-lg-2 {
   line-height: 165px;
-  padding: 0;
+  padding: 10px;
 }
 
 #main_section_1 .m_section1_img img{
@@ -218,15 +218,16 @@ body{
 }
 
 #main_section_2 .info .list-group li{
-  padding: 5px 7px;
+  padding: 10px 7px;
 }
 
 #main_section_2 .info .list-group a{
   color: grey;
+  font-size: 20px;
 }
 
 #main_section_2 .info img{
-  padding: 10px 0;
+  padding: 10px 5px;
 }
 
 #main_section_2 .info span{
@@ -241,6 +242,53 @@ body{
   font-size: 20px;
 }
 
+/* main section 3 */
+
+#main_section_3{
+  background: #F3F5F9;
+  /* height: 300px; */
+  text-align: center;
+  padding: 25px 0;
+}
+
+#main_section_3 [class*='col-'] {
+  padding: 0 5px;
+}
+
+#main_section_3 img{
+  width: 100%;
+  margin-bottom: 25px;
+}
+
+#main_section_3 .progect > h3{
+  font-size: 30px;
+}
+
+#main_section_3 .progect > p{
+  font-size: 22px;
+  padding: 0 10px 20px;
+  color: #525151;
+}
+
+#main_section_3 .col-lg-2 i{
+  font-size: 35px;
+  line-height: 500px;
+  padding: 5px 10px;
+}
+
+#main_section_3 .text-right i{
+  color: black;
+}
+
+#main_section_3 span{
+  display: block;
+  font-size: 15px;
+  font-weight: bold;
+}
+
+#main_section_3 i{
+  font-size: 8px;
+}
 
 
 
