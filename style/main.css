@@ -22,6 +22,9 @@ body{
   color: white;
 }
 
+.padding_bootom{
+  padding-bottom: 10px;
+}
 
 
 
@@ -186,6 +189,7 @@ body{
 
 #main_section_1 .row i{
   padding: 0 10px;
+  vertical-align: middle;
 }
 
 /* main section 2 */
@@ -256,8 +260,8 @@ body{
 }
 
 #main_section_3 img{
-  width: 100%;
-  margin-bottom: 25px;
+  width: 95%;
+  margin-bottom: 15px;
 }
 
 #main_section_3 .progect > h3{
@@ -272,8 +276,8 @@ body{
 
 #main_section_3 .col-lg-2 i{
   font-size: 35px;
-  line-height: 500px;
-  padding: 5px 10px;
+  line-height: 455px;
+  padding: 5px 0;
 }
 
 #main_section_3 .text-right i{
@@ -288,6 +292,39 @@ body{
 
 #main_section_3 i{
   font-size: 8px;
+}
+
+/* main section 4 */
+
+#main_section_4{
+  padding: 25px 0;
+}
+
+#main_section_4 h3{
+  padding-bottom: 35px;
+}
+
+#main_section_4 img{
+  padding: 10px 0;
+}
+
+#main_section_4 h5{
+  font-size: 15px;
+  font-weight: bold;
+}
+
+#main_section_4 p{
+  font-size: 15px;
+  color: #525151;
+}
+
+#main_section_4 a{
+  font-weight: bold;
+}
+
+#main_section_4 i{
+  vertical-align: middle;
+  padding-left: 5px;
 }
 
 
