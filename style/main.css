@@ -260,8 +260,9 @@ body{
 }
 
 #main_section_3 img{
-  width: 95%;
+  width: 80%;
   margin-bottom: 15px;
+  padding: 0 10px;
 }
 
 #main_section_3 .progect > h3{
@@ -274,10 +275,24 @@ body{
   color: #525151;
 }
 
-#main_section_3 .col-lg-2 i{
-  font-size: 35px;
-  line-height: 455px;
-  padding: 5px 0;
+#main_section_3 .col-lg-12{
+  position: relative;
+}
+
+#main_section_3 .col-lg-12 i{
+  font-size: 55px;
+}
+
+#right-arrow{
+  top: 50%;
+  right: -5%;
+}
+
+#left-arrow{
+  top: 50%;
+  left: -25%;
+  color: #6f7b97;
+  /* color: red; */
 }
 
 #main_section_3 .text-right i{
@@ -292,6 +307,19 @@ body{
 
 #main_section_3 i{
   font-size: 8px;
+}
+
+.circle{
+  margin-right: 4px;
+  border: 1px solid #006aff;
+  border-radius: 50%;
+  padding: 1px 5px;
+  line-height: 0;
+  font-size: 6px;
+}
+
+.circle:hover{
+  background-color: #006aff;
 }
 
 /* main section 4 */
