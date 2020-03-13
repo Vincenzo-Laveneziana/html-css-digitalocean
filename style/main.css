@@ -184,7 +184,7 @@ body{
   padding: 0 15px;
 }
 
-#main_section_1 .row h6{
+#main_section_1 .row h4{
   text-transform: uppercase;
   margin: 0;
   color: #b5b5b5;
@@ -195,13 +195,16 @@ body{
 #main_section_1 .m_section1_img .col-lg-2{
   line-height: 165px;
   padding: 10px;
+
 }
 
 #main_section_1 .m_section1_img img{
   max-width: 100%;
+  vertical-align: middle;
 }
 
 #main_section_1 .row a{
+  font-size: 20px;
   margin: 0;
   color: #2c7ff5;
   font-weight: bold;
@@ -225,7 +228,8 @@ body{
 
 #main_section_2 .row > p{
   color: #525151;
-  font-size: 23px;
+  font-size: 22px;
+  padding: 0 2px;
 }
 
 #main_section_2 .info{
@@ -561,7 +565,6 @@ body{
 
 #footer_section_1 .col_dx a:hover{
   color: white;
-
 }
 
 /* help button */
@@ -656,17 +659,6 @@ body{
     transform: rotate(45deg);
   }
 }
-
-
-
-
-
-
-
-
-
-
-
 
 
 
