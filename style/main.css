@@ -177,7 +177,7 @@ body{
 
 #main_section_1 .row{
   text-align: center;
-  padding: 0 15px;
+  padding: 0;
 }
 
 #main_section_1 .row h4{
@@ -189,14 +189,12 @@ body{
 #main_section_1 .m_section1_img .col-xs-6,
 #main_section_1 .m_section1_img .col-sm-2,
 #main_section_1 .m_section1_img .col-lg-2{
-  line-height: 165px;
-  padding: 10px;
-
+  line-height: 162px;
+  padding: 0 10px;
 }
 
 #main_section_1 .m_section1_img img{
   max-width: 100%;
-  vertical-align: middle;
 }
 
 #main_section_1 .row a{
@@ -421,7 +419,7 @@ body{
 
 #main_section_6 .box{
   width: 50%;
-  height: 300px;
+  /* height: 300px; */
   background: white;
   margin: 25px auto;
   padding: 40px 0;
@@ -435,11 +433,10 @@ body{
 
 #main_section_6 .box h5:nth-child(4){
   font-weight: bold;
-  margin-bottom: 40px;
+  margin-bottom: 30px;
 }
 
 #main_section_6 .box a{
-  padding: 20px 0;
   font-weight: 500;
 }
 
